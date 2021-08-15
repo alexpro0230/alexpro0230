@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @alexpro0230
-- Learning programming
 - I like game development
 - And I'm learning web development
 
