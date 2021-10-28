@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @alexpro0230
-- I like game development
-- And I'm learning web development
-- My favorite language is C#.
+- Nothing too interersting in here.
+- Just a guy that likes prgogramming as it's hobby
 
 <!---
 alexpro0230/alexpro0230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
